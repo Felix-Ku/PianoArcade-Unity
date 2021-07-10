@@ -15,7 +15,7 @@ A piano learning game produced with unity and C# language
 ## Game mode I
 ![Alt text](screenshots/1.1.jpg)
 ![Alt text](screenshots/1.2.jpg)
-![Alt text](screenshots/Picture2.png)
+![Alt text](screenshots/Picture4.png)
 
 
 ## Game mode II
